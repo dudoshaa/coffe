@@ -112,7 +112,7 @@ body {
 
 /* HEADER-HERO STAR */
 .hero-container{
-  
+
 }
 
 .hero-content {
@@ -169,7 +169,7 @@ body {
 .cofe-image-container {
 }
 .cofe-image-content {
-  position: absolute;
+  position: relative;
   top: 158px;
   right: 10px;
 }
