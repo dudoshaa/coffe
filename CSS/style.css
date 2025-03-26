@@ -139,6 +139,7 @@ body {
 }
 .hero-content p {
   color: #7e7d7a;
+  margin-bottom: 32px;
 }
 .hero-content-links {
   display: flex;
