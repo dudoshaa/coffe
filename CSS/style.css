@@ -73,7 +73,7 @@ body {
 .header-nav-container {
   display: flex;
   justify-content: space-between;
-  align-items:center;
+  align-items: center;
 }
 
 .sitenav-list {
@@ -112,10 +112,10 @@ body {
 /* HEADER END */
 
 /* HEADER-HERO STAR */
-.section{
+.section {
   display: flex;
   justify-content: space-between;
-  align-items:center;
+  align-items: center;
 }
 .hero-content {
   display: flex;
@@ -141,6 +141,7 @@ body {
 .hero-content p {
   color: #7e7d7a;
   margin-bottom: 32px;
+  width: 393px;
 }
 .hero-content-links {
   display: flex;
