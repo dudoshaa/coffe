@@ -111,10 +111,10 @@ body {
 /* HEADER END */
 
 /* HEADER-HERO STAR */
-.hero-container{
-
+.section{
+  display: flex;
+  justify-content: space-between;
 }
-
 .hero-content {
   display: flex;
   flex-direction: column;
