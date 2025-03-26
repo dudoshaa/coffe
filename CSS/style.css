@@ -179,3 +179,12 @@ body {
 }
 
 /* COFFE-IMAGE END */
+.coffe-top{
+  width: 599px;
+  height: 394px;
+  background-image: url(../images/coffe-top.svg);
+  background-position: top right;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
