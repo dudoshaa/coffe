@@ -138,7 +138,7 @@ body {
   line-height: 1;
   color: #ff902b;
 }
-.hero-container p {
+.hero-content p {
   color: #7e7d7a;
 }
 .hero-content-links {
@@ -167,12 +167,13 @@ body {
 }
 /* HEADER-HERO END  */
 /* COFFE-IMAGE STAR  */
-.cofe-image-container {
-}
+
 .cofe-image-content {
   position: relative;
   top: 158px;
   right: 10px;
+  object-fit: cover;
+  display: flex;
 }
 
 /* COFFE-IMAGE END */
