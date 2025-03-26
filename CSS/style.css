@@ -111,7 +111,9 @@ body {
 /* HEADER END */
 
 /* HEADER-HERO STAR */
-
+.hero-container{
+  
+}
 
 .hero-content {
   display: flex;
