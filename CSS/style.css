@@ -556,8 +556,10 @@ body {
   align-items: center;
 }
 .footer-search-input {
+  border:0;
   border-radius: 42px;
   padding: 17px 16px;
+  outline: none;
 }
 .Order-btn {
 }
