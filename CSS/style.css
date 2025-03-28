@@ -200,6 +200,14 @@ body {
   margin-top: -225px;
   margin-bottom: 120px;
 }
+.popular-title{
+font-weight: 600;
+font-size: 32px;
+color: #000000;
+vertical-align: middle;
+
+  margin-bottom: 32px;
+}
 
 .popalr-now-list {
   display: flex;
