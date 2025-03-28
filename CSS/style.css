@@ -412,3 +412,35 @@ vertical-align: middle;
   opacity: 0.6;
 }
 /* ABOUT US END  */
+
+/* MENU START */
+.menu {
+}
+.menu-container {
+}
+
+.menu-title {
+}
+.menu-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.menu-item {
+}
+.menu-image-wrapper {
+}
+.menu-rating {
+}
+.menu-body {
+}
+.menu-titles {
+}
+.menu-item-title {
+}
+.menu-item-ordered {
+}
+.menu-type {
+}
+.menu-text {
+}
+/* MENU END */
