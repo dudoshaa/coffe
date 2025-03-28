@@ -285,23 +285,51 @@ body {
 
 /* SERVICE START */
 .service {
+  margin-bottom: 208px;
 }
-.service-contaier {
-}
-.container {
-}
+/* .service-contaier {
+} */
+
 .service-title {
+  margin-bottom: 32px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 4%;
+  vertical-align: middle;
 }
+
+.orange-line {
+  border-bottom: 4px solid orange;
+}
+
 .service-list {
   display: flex;
   justify-content: space-between;
 }
 .service-item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 16px 24px;
+  gap: 17px;
 }
-.service-image {
-}
+/* .service-image {
+} */
 .service-item-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 4%;
+  text-align: center;
+  vertical-align: middle;
+  color: #2f2105;
 }
 .service-item-text {
+  text-align: center;
+  vertical-align: middle;
+  color: #2f2105;
 }
+
 /* SERVICE END  */
