@@ -286,6 +286,11 @@ body {
   border: 2px solid #ffd28f;
   padding: 10px;
   color: #ffd28f;
+
+  &:hover {
+    border-color: #ff902b;
+    color: #ff902b;
+  }
 }
 .popular-types-cold {
   border-radius: 8px;
@@ -293,6 +298,11 @@ body {
   border: 2px solid #ffd28f;
   padding: 10px;
   color: #ffd28f;
+
+  &:hover {
+    border-color: #ff902b;
+    color: #ff902b;
+  }
 }
 /* POPULAR END */
 
@@ -496,6 +506,8 @@ body {
   background-size: 945px;
   background-repeat: no-repeat;
   background-position: left;
+  border-radius: 24px;
+  overflow: hidden;
   position: relative;
   margin-bottom: 120px;
 }
@@ -506,6 +518,8 @@ body {
 }
 
 .reviews-content {
+  margin-top: 170px;
+  margin-bottom: 170px;
 }
 .reviews-title {
   font-weight: 600;
@@ -533,7 +547,7 @@ body {
   bottom: 22px;
   left: 30.58px;
   background-color: #ffcb7c;
-  border: 6px solid #ffd3909e;
+  border: 6px solid rgba(255, 211, 144, 0.62);
 }
 .reviews-item-title {
   font-weight: 500;
@@ -541,6 +555,8 @@ body {
 }
 .reviews-item-text {
   width: 226.5px;
+  font-size: 14px;
+  line-height: 140%;
 }
 /* REVIEWS END  */
 
